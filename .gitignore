@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+generated
+sqlite.db
+sqlite.db-journal
+
+__pycache__
+.pytest_cache
+.venv
+
+.yarn/cache
+.yarn/install-state.gz
